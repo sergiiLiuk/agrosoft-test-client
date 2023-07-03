@@ -1,4 +1,4 @@
-import { createAction, props, Action as sAction } from '@ngrx/store';
+import { createAction, props } from '@ngrx/store';
 import { Animal } from '../../animal.model';
 
 const prefix = '[Animals]';
